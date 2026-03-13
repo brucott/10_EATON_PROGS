@@ -1,0 +1,28 @@
+<StandardScreen Guid="9cac0a8d-cc00-4a26-bbc6-cd1f908eac0d" Res="[1024 600]" ScreenColor="[255 192 192 192]" ActiveSet="8926f04b-d98b-43f5-88ec-28555a4bba95" Name="Config_texts" No="1" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="e38bd7f4-e494-43ad-a991-ee0f58da42e2">
+  <Checksum Value="99638351" />
+  <SpecFunc Guid="8c2f7afd-efa1-4c96-ac13-fc0a33b46e9f" LockedPosition="0" ControlSet="8926f04b-d98b-43f5-88ec-28555a4bba95" Name="" Anchor="5" Style="ef1e3cef-928b-418c-8eb5-3675cb4748a1" Click="0" FrameStyle="2" FuncID="32" Param1="0" Param2="" X_PropType="0" X_Value="20" Y_PropType="0" Y_Value="490" Width_PropType="0" Width_Value="120" Height_PropType="0" Height_Value="90">
+    <State Guid="826cfacf-291f-4e56-b18f-831c7a88343f" Name="On" Version="[1.1.0]">
+      <BackImageDecorator Guid="97c7ab78-2603-44e6-90c8-2af18a2ea224" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="062d35eb-c37f-4814-b499-786ac9e0fe3a" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <TextDecorator Guid="f78ae4a1-563c-46b7-9073-078145f12b5c" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+    <State Guid="af38563e-2277-4025-b4f7-69ae82064f00" Name="Off" Version="[1.1.0]">
+      <BackImageDecorator Guid="a76a0f12-5489-445f-a6b9-6ebecf6ea7bf" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="062d35eb-c37f-4814-b499-786ac9e0fe3a" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <TextDecorator Guid="be1d8b88-86de-46c2-bf11-22946a82317f" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_Value="c34e355b-1bb5-46ce-9165-4c3a1e7898e5" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </SpecFunc>
+  <ValueEntry Guid="3ba5a6d9-9769-442f-8a21-cc33dfd17029" LockedPosition="0" ControlSet="8926f04b-d98b-43f5-88ec-28555a4bba95" Name="" Anchor="5" Style="641125d2-fde3-453a-b9c1-8630e2d6b7ff" Format="0" UnitShowing="0" Keyboard="954d2b46-e95d-431f-98db-3c3ed826e4d1" Click="0" FrameStyle="0" ReplaceUnderscoresWithSpaces="0" X_PropType="0" X_Value="20" Y_PropType="0" Y_Value="30" Width_PropType="0" Width_Value="210" Height_PropType="0" Height_Value="120" MainData_PropType="1" MainData_Tag="bee27ff4-13b6-4e3e-83c3-5fcf51f9ee8b" ConversionData_PropType="0">
+    <State Guid="6e5c1c30-ca6c-4d08-9cd1-6877132f9e58" Name="Lower" Version="[1.1.0]">
+      <ColorDecorator Guid="6383789d-a4e4-4fbc-8812-df885db320a1" ID="0" Color="[255 148 148 148]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="5da5c5e3-f9d8-4a70-88b1-9485f172b43d" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+    <State Guid="c67328a1-e707-4cdd-9fc1-59d864a17f64" Name="Within" Version="[1.1.0]">
+      <ColorDecorator Guid="b76a83d0-5f87-4a6b-81ea-b84384078f02" ID="0" Color="[255 148 148 148]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="383d9afd-7877-4eb0-998d-3675ebd1eca7" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+    <State Guid="9af03aa6-f11a-435f-a691-a684576178f3" Name="Upper" Version="[1.1.0]">
+      <ColorDecorator Guid="d6ae2958-8c2b-401d-a9dc-ce62f9e1b0ab" ID="0" Color="[255 148 148 148]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="3ae8c1fb-1905-44b3-95de-d735e0b822d3" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </ValueEntry>
+  <ControlSet Guid="8926f04b-d98b-43f5-88ec-28555a4bba95" Name="ControlSet" />
+</StandardScreen>

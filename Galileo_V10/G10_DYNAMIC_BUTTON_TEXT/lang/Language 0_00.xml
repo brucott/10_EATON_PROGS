@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languageData Version="galileoNG">
+	<texts>
+		<standard Guid="e1d21397-4bdb-4a3d-8587-ded4a23d5731" textID="0"><![CDATA[MARCHE]]></standard>
+		<standard Guid="df12fb9c-8094-4a49-b73e-a509c8afc20d" textID="1"><![CDATA[ARRET]]></standard>
+		<standard Guid="3ab67564-bed5-4577-b760-ebd70dc8824c" textID="2"><![CDATA[]]></standard>
+		<standard Guid="2cb5ccc0-c4fa-49a1-bd1b-e93ebc333b59" textID="3"><![CDATA[Configuration textes boutons]]></standard>
+		<standard Guid="c34e355b-1bb5-46ce-9165-4c3a1e7898e5" textID="4"><![CDATA[Retour]]></standard>
+		<standard Guid="883decb5-7cb7-4003-aad3-a227ed8e7006" textID="5"><![CDATA[Clic droit sur la zone de texte]]></standard>
+		<standard Guid="f5dc5ffe-1b2b-44fe-9184-918cd0831451" textID="6"><![CDATA[Puis "Use Tag"]]></standard>
+	</texts>
+</languageData>
