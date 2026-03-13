@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<languagedata>
+	<fileversion major='1' minor='5'/>
+	<systemkeyboard path="en_US"/>
+	<textprint mode="graphic" fontid='0' size='12' bold='0' italic='0' underline='0' strikeout='0'/>
+	<fonts>
+		<font id='0' fontname="Arial" filename="Arial.ttf" fontsizefactor='100'/>
+		<font id='2' fontname="Times New Roman" filename="Times.ttf" fontsizefactor='100'/>
+		<font id='3' fontname="Symbol" filename="Symbol.ttf" fontsizefactor='100'/>
+		<font id='4' fontname="Courier New" filename="Cour.ttf" fontsizefactor='100'/>
+	</fonts>
+	<texts>
+		<standard>
+			<s0><![CDATA[]]></s0>
+			<s1><![CDATA[This text is centered.]]></s1>
+			<s2><![CDATA[This text is left-aligned.]]></s2>
+			<s3><![CDATA[This text is right-aligned.]]></s3>
+			<s4><![CDATA[Alignment]]></s4>
+			<s5><![CDATA[HELP
+Bitmap]]></s5>
+			<s6><![CDATA[Background color Blue]]></s6>
+			<s7><![CDATA[Foreground color Green]]></s7>
+			<s8><![CDATA[Background color Blue 
+Foreground color Green]]></s8>
+			<s9><![CDATA[This text is in Arial.]]></s9>
+			<s10><![CDATA[Gauge]]></s10>
+			<s11><![CDATA[Background transparent]]></s11>
+			<s12><![CDATA[Error messages with Parameters]]></s12>
+			<s13><![CDATA[This text is in Times New Roman.]]></s13>
+			<s14><![CDATA[This text is in Symbol.]]></s14>
+			<s15><![CDATA[This text is in Courier New.]]></s15>
+			<s16><![CDATA[Admin]]></s16>
+			<s17><![CDATA[Font Size]]></s17>
+			<s18><![CDATA[Size 8]]></s18>
+			<s19><![CDATA[Size 12]]></s19>
+			<s20><![CDATA[Size 16]]></s20>
+			<s21><![CDATA[Size 24]]></s21>
+			<s22><![CDATA[Size
+32]]></s22>
+			<s23><![CDATA[Group Rights]]></s23>
+			<s24><![CDATA[Other color]]></s24>
+			<s25><![CDATA[Summertime]]></s25>
+			<s26><![CDATA[Wintertime]]></s26>
+			<s27><![CDATA[Draw functions]]></s27>
+			<s28><![CDATA[Rectangle]]></s28>
+			<s29><![CDATA[Rounded Rect.]]></s29>
+			<s30><![CDATA[Ellipse]]></s30>
+			<s31><![CDATA[Line]]></s31>
+			<s32><![CDATA[Time/Date adjustment]]></s32>
+			<s33><![CDATA[Polygon]]></s33>
+			<s34><![CDATA[Pictures]]></s34>
+			<s35><![CDATA[16 Bit Color depth
+
+More than 10 picture formats
+
+Freely scalable]]></s35>
+			<s36><![CDATA[Height]]></s36>
+			<s37><![CDATA[Width]]></s37>
+			<s38><![CDATA[Mask Change]]></s38>
+			<s39><![CDATA[usabilty]]></s39>
+			<s40><![CDATA[viewable]]></s40>
+			<s41><![CDATA[-Mask 1-]]></s41>
+			<s42><![CDATA[-Mask 2-]]></s42>
+			<s43><![CDATA[mm]]></s43>
+			<s44><![CDATA[Mask 2]]></s44>
+			<s45><![CDATA[ 3D]]></s45>
+			<s46><![CDATA[ Color]]></s46>
+			<s47><![CDATA[ 2D]]></s47>
+			<s48><![CDATA[Pattern 1]]></s48>
+			<s49><![CDATA[ No Frame]]></s49>
+			<s50><![CDATA[Pattern 2]]></s50>
+			<s51><![CDATA[ Delay]]></s51>
+			<s52><![CDATA[3D Display]]></s52>
+			<s53><![CDATA[ Double Click]]></s53>
+			<s54><![CDATA[No Change]]></s54>
+			<s55><![CDATA[Text]]></s55>
+			<s56><![CDATA[Color]]></s56>
+			<s57><![CDATA[Bitmap]]></s57>
+			<s58><![CDATA[Mask 1]]></s58>
+			<s59><![CDATA[Button]]></s59>
+			<s60><![CDATA[Invers]]></s60>
+			<s61><![CDATA[Off]]></s61>
+			<s62><![CDATA[On]]></s62>
+			<s63><![CDATA[Stream]]></s63>
+			<s64><![CDATA[Reset Bit]]></s64>
+			<s65><![CDATA[Pattern 3]]></s65>
+			<s66><![CDATA[Set Bit:]]></s66>
+			<s67><![CDATA[Switch]]></s67>
+			<s68><![CDATA[Rotate left:
+1 Bit (endless)]]></s68>
+			<s69><![CDATA[Rotate right:
+1 Bit (endless)]]></s69>
+			<s70><![CDATA[Rotate right:
+1 Bit ]]></s70>
+			<s71><![CDATA[Rotate left:
+1 Bit]]></s71>
+			<s72><![CDATA[1 Byte]]></s72>
+			<s73><![CDATA[Set single bit with the arrows]]></s73>
+			<s74><![CDATA[Entry number]]></s74>
+			<s75><![CDATA[10101010]]></s75>
+			<s76><![CDATA[10011001]]></s76>
+			<s77><![CDATA[Set Bitmask]]></s77>
+			<s78><![CDATA[Set Bitmask (Stream)]]></s78>
+			<s79><![CDATA[Flag Display]]></s79>
+			<s80><![CDATA[X]]></s80>
+			<s81><![CDATA[Y]]></s81>
+			<s82><![CDATA[Z]]></s82>
+			<s83><![CDATA[0]]></s83>
+			<s84><![CDATA[1]]></s84>
+			<s85><![CDATA[2]]></s85>
+			<s86><![CDATA[Value Entry/Display]]></s86>
+			<s87><![CDATA[Different Keyboards]]></s87>
+			<s88><![CDATA[Different Formats]]></s88>
+			<s89><![CDATA[Simulation start]]></s89>
+			<s90><![CDATA[Inc/Dec 10
+2D (flashing)]]></s90>
+			<s91><![CDATA[Numeric No
+Frame (flashing)]]></s91>
+			<s92><![CDATA[Num. Digit Min/Max
+Delay]]></s92>
+			<s93><![CDATA[Numeric Min/Max
+Double Click]]></s93>
+			<s94><![CDATA[Numeric Password
+3D]]></s94>
+			<s95><![CDATA[Select Numeric
+3D]]></s95>
+			<s96><![CDATA[1 bit rotate to
+right (endless)]]></s96>
+			<s97><![CDATA[Decimal
+3D]]></s97>
+			<s98><![CDATA[BCD
+2D]]></s98>
+			<s99><![CDATA[Binary
+No Frame]]></s99>
+			<s100><![CDATA[Hex
+Delay]]></s100>
+			<s101><![CDATA[Octal
+Double Click]]></s101>
+			<s102><![CDATA[K]]></s102>
+			<s103><![CDATA[°C]]></s103>
+			<s104><![CDATA[Enter Value]]></s104>
+			<s105><![CDATA[In Kelvin]]></s105>
+			<s106><![CDATA[In Degree
+Centigrade]]></s106>
+			<s107><![CDATA[Display Values/
+Units]]></s107>
+			<s108><![CDATA[Enter]]></s108>
+			<s109><![CDATA[< -100]]></s109>
+			<s110><![CDATA[> 100]]></s110>
+			<s111><![CDATA[Bargraph]]></s111>
+			<s112><![CDATA[0]]></s112>
+			<s113><![CDATA[300]]></s113>
+			<s114><![CDATA[Start]]></s114>
+			<s115><![CDATA[Stop]]></s115>
+			<s116><![CDATA[Value Entry, blinking outside Limit]]></s116>
+			<s117><![CDATA[Adjustable Scale]]></s117>
+			<s118><![CDATA[100]]></s118>
+			<s119><![CDATA[Lower Limit :33
+Upper Limit: 66]]></s119>
+			<s120><![CDATA[Different Display Formats]]></s120>
+			<s121><![CDATA[Graph]]></s121>
+			<s122><![CDATA[Measure Ruler]]></s122>
+			<s123><![CDATA[1 bit rotate
+to right]]></s123>
+			<s124><![CDATA[Metered Value]]></s124>
+			<s125><![CDATA[Graph 1]]></s125>
+			<s126><![CDATA[1 bit rotate
+to left]]></s126>
+			<s127><![CDATA[support  2222]]></s127>
+			<s128><![CDATA[kg]]></s128>
+			<s129><![CDATA[Graph 3]]></s129>
+			<s130><![CDATA[Zoom]]></s130>
+			<s131><![CDATA[On]]></s131>
+			<s132><![CDATA[Error Parameter]]></s132>
+			<s133><![CDATA[Scroll]]></s133>
+			<s134><![CDATA[Recipes]]></s134>
+			<s135><![CDATA[Change
+flour ratio]]></s135>
+			<s136><![CDATA[Change
+sugar ratio]]></s136>
+			<s137><![CDATA[1 bit rotate to
+left (endless)]]></s137>
+			<s138><![CDATA[Load]]></s138>
+			<s139><![CDATA[Rename]]></s139>
+			<s140><![CDATA[Copy]]></s140>
+			<s141><![CDATA[Paste]]></s141>
+			<s142><![CDATA[Save]]></s142>
+			<s143><![CDATA[Save as...]]></s143>
+			<s144><![CDATA[Project text]]></s144>
+			<s145><![CDATA[Delete]]></s145>
+			<s146><![CDATA[V]]></s146>
+			<s147><![CDATA[User  3333]]></s147>
+			<s148><![CDATA[Are you sure ?]]></s148>
+			<s149><![CDATA[Value Tag]]></s149>
+			<s150><![CDATA[Clear the
+recipe entry:]]></s150>
+			<s151><![CDATA[YES]]></s151>
+			<s152><![CDATA[NO]]></s152>
+			<s153><![CDATA[Load Default Settings
+of Recipe Entry:]]></s153>
+			<s154><![CDATA[Print]]></s154>
+			<s155><![CDATA[?]]></s155>
+			<s156><![CDATA[Selected Entry:]]></s156>
+			<s157><![CDATA[h]]></s157>
+			<s158><![CDATA[Day]]></s158>
+			<s159><![CDATA[Reset]]></s159>
+			<s160><![CDATA[Flour]]></s160>
+			<s161><![CDATA[Sugar]]></s161>
+			<s162><![CDATA[Loaded Entry:]]></s162>
+			<s163><![CDATA[other color
+(flashing)]]></s163>
+			<s164><![CDATA[Error Window]]></s164>
+			<s165><![CDATA[History
+On/Off]]></s165>
+			<s166><![CDATA[Confirm
+Error]]></s166>
+			<s167><![CDATA[Confirm
+All Errors]]></s167>
+			<s168><![CDATA[Clear
+History]]></s168>
+			<s169><![CDATA[Autoscroll
+On/Off]]></s169>
+			<s170><![CDATA[Save
+History]]></s170>
+			<s171><![CDATA[Function Keys]]></s171>
+			<s172><![CDATA[Information:]]></s172>
+			<s173><![CDATA[Mask Name]]></s173>
+			<s174><![CDATA[GRS Version]]></s174>
+			<s175><![CDATA[Compiler Version]]></s175>
+			<s176><![CDATA[No. of compilings]]></s176>
+			<s177><![CDATA[Active Language]]></s177>
+			<s178><![CDATA[Serial No.]]></s178>
+			<s179><![CDATA[Project Size]]></s179>
+			<s180><![CDATA[FTP]]></s180>
+			<s181><![CDATA[Execute:]]></s181>
+			<s182><![CDATA[Change
+System Language]]></s182>
+			<s183><![CDATA[Reboot]]></s183>
+			<s184><![CDATA[Save Mask
+as Bitmap]]></s184>
+			<s185><![CDATA[Backlight
+Off]]></s185>
+			<s186><![CDATA[Last Mask]]></s186>
+			<s187><![CDATA[Close GRS]]></s187>
+			<s188><![CDATA[Diverse:]]></s188>
+			<s189><![CDATA[SPS-Text (Char-Array)]]></s189>
+			<s190><![CDATA[admin  9999]]></s190>
+			<s191><![CDATA[grid 2
+(flashing)]]></s191>
+			<s192><![CDATA[Text input in a Char-Array]]></s192>
+			<s193><![CDATA[Font color]]></s193>
+			<s194><![CDATA[Time/Date]]></s194>
+			<s195><![CDATA[Date / Time]]></s195>
+			<s196><![CDATA[/]]></s196>
+			<s197><![CDATA[Switch to
+US Date/Time]]></s197>
+			<s198><![CDATA[Switch to
+European Date/Time]]></s198>
+			<s199><![CDATA[Gauge with Bitmap
+as back]]></s199>
+			<s200><![CDATA[Value Entry, visibility controllable]]></s200>
+			<s201><![CDATA[Display Value, no Accessibility]]></s201>
+			<s202><![CDATA[Time]]></s202>
+			<s203><![CDATA[Date]]></s203>
+			<s204><![CDATA[Help]]></s204>
+			<s205><![CDATA[HELP]]></s205>
+			<s206><![CDATA[The Error window will appear in this area 
+if the Help-Button is used.]]></s206>
+			<s207><![CDATA[Parameter List]]></s207>
+			<s208><![CDATA[Value Entry, no Accessibility]]></s208>
+			<s209><![CDATA[Value Entry, visibility controllable]]></s209>
+			<s210><![CDATA[Value Entry, accessibility controllable]]></s210>
+			<s211><![CDATA[Value Entry, accessibility/visibility controllable]]></s211>
+			<s212><![CDATA[°F]]></s212>
+			<s213><![CDATA[1. The used device must have a connection to the internet.
+2. The Webcams which are used have to be online.]]></s213>
+			<s214><![CDATA[Set Touch Disable]]></s214>
+			<s215><![CDATA[Accessibility of the Entries]]></s215>
+			<s216><![CDATA[Show Information]]></s216>
+			<s217><![CDATA[Sub Mask]]></s217>
+			<s218><![CDATA[If a group of objects is used several times, they can be implemented in a submask. The submask can be used as one object (optional with own optional tag interface) several times in the project. Modifications at the submask are automatically updated at every use. Applications: header, side navigation bar, multiple use of the same group of objects ...]]></s218>
+			<s219><![CDATA[ Header]]></s219>
+			<s220><![CDATA[ Accessibility Control]]></s220>
+			<s221><![CDATA[Camera]]></s221>
+			<s222><![CDATA[Inc/Dec 1
+3D (flashing)]]></s222>
+			<s223><![CDATA[upper limit]]></s223>
+			<s224><![CDATA[technik  1111]]></s224>
+			<s225><![CDATA[]]></s225>
+			<s226><![CDATA[Error]]></s226>
+			<s227><![CDATA[lower limit]]></s227>
+			<s228><![CDATA[stopped]]></s228>
+			<s229><![CDATA[started]]></s229>
+			<s230><![CDATA[Status]]></s230>
+			<s231><![CDATA[s]]></s231>
+			<s232><![CDATA[Refresh time]]></s232>
+			<s233><![CDATA[Important]]></s233>
+			<s234><![CDATA[There are two conditions to make this demo running well:]]></s234>
+			<s235><![CDATA[OK]]></s235>
+			<s236><![CDATA[Advice]]></s236>
+			<s237><![CDATA[X]]></s237>
+			<s238><![CDATA[Advice]]></s238>
+			<s239><![CDATA[Warning]]></s239>
+			<s240><![CDATA[Start record]]></s240>
+			<s241><![CDATA[Stop record]]></s241>
+			<s242><![CDATA[Login by Char input]]></s242>
+			<s243><![CDATA[no User]]></s243>
+			<s244><![CDATA[Release a notification]]></s244>
+			<s245><![CDATA[Trailing pointer]]></s245>
+			<s246><![CDATA[technic]]></s246>
+			<s247><![CDATA[support]]></s247>
+			<s248><![CDATA[user]]></s248>
+			<s249><![CDATA[back]]></s249>
+			<s250><![CDATA[Style]]></s250>
+			<s251><![CDATA[Two Gauges on top of each other]]></s251>
+			<s252><![CDATA[User lists]]></s252>
+			<s253><![CDATA[User]]></s253>
+			<s254><![CDATA[Password ]]></s254>
+			<s255><![CDATA[Logged In as:]]></s255>
+			<s256><![CDATA[Show all
+Users]]></s256>
+			<s257><![CDATA[LOGOUT]]></s257>
+			<s258><![CDATA[LOGIN ]]></s258>
+			<s259><![CDATA[Change pw
+of other users]]></s259>
+			<s260><![CDATA[Create new
+User]]></s260>
+			<s261><![CDATA[Change own
+password]]></s261>
+			<s262><![CDATA[Delete
+User]]></s262>
+			<s263><![CDATA[Reset bad
+login counter]]></s263>
+			<s264><![CDATA[Simulation Stop]]></s264>
+			<s265><![CDATA[Gauge clear with trailing pointer]]></s265>
+			<s266><![CDATA[Graph]]></s266>
+			<s267><![CDATA[Value]]></s267>
+			<s268><![CDATA[Log Functions]]></s268>
+			<s269><![CDATA[Example of Tag Ingnore-list]]></s269>
+			<s270><![CDATA[Graph Viewer]]></s270>
+			<s271><![CDATA[Information]]></s271>
+			<s272><![CDATA[Graph record]]></s272>
+			<s273><![CDATA[Mask
+(with Header)]]></s273>
+			<s274><![CDATA[Mask
+(without header)]]></s274>
+			<s275><![CDATA[Form No. 0]]></s275>
+			<s276><![CDATA[Report Mask]]></s276>
+			<s277><![CDATA[Error History]]></s277>
+			<s278><![CDATA[Print errors
+online]]></s278>
+			<s279><![CDATA[Stop 
+online print]]></s279>
+			<s280><![CDATA[User management]]></s280>
+			<s281><![CDATA[Print:]]></s281>
+			<s282><![CDATA[Standard Text]]></s282>
+			<s283><![CDATA[Printfunction]]></s283>
+			<s284><![CDATA[Login Keyboard]]></s284>
+			<s285><![CDATA[Dynamic position]]></s285>
+			<s286><![CDATA[Delete Viewer
+buffer]]></s286>
+			<s287><![CDATA[Slider]]></s287>
+			<s288><![CDATA[no
+frame]]></s288>
+			<s289><![CDATA[dynamic limits]]></s289>
+			<s290><![CDATA[25]]></s290>
+			<s291><![CDATA[50]]></s291>
+			<s292><![CDATA[75]]></s292>
+			<s293><![CDATA[100]]></s293>
+			<s294><![CDATA[float]]></s294>
+			<s295><![CDATA[Show all
+Groups]]></s295>
+			<s296><![CDATA[The demo is not connected to an SPC but messages can be generated. 
+
+To do so, push the wanted messagetype button and the message appears in the error window.]]></s296>
+			<s297><![CDATA[Source of the Cam]]></s297>
+			<s298><![CDATA[Enter the URL of a Webcam or network path to:
+Path: http://Server/folder/filename.ext(jpg)
+Sample Cam Uni St.Gallen = http://axis5.unisg.ch/jpg/image.jpg]]></s298>
+			<s299><![CDATA[Initiator defect]]></s299>
+			<s300><![CDATA[Case empty]]></s300>
+			<s301><![CDATA[Graph 'save as']]></s301>
+			<s302><![CDATA[Stop]]></s302>
+			<s303><![CDATA[Language Specific System Keyboards]]></s303>
+			<s304><![CDATA[Russian]]></s304>
+			<s305><![CDATA[French]]></s305>
+			<s306><![CDATA[Color-Button
+switch on]]></s306>
+			<s307><![CDATA[Color-Button
+switch off]]></s307>
+			<s308><![CDATA[Text-Button
+visible]]></s308>
+			<s309><![CDATA[Text-Button
+invisible]]></s309>
+			<s310><![CDATA[ Recipe without rules for Recipe Names]]></s310>
+			<s311><![CDATA[ Recipe with rules for Recipe Names]]></s311>
+			<s312><![CDATA[Enhanced Accessibility / Visibility of the Entries]]></s312>
+			<s313><![CDATA[Visibility    
+Accessibility    ]]></s313>
+			<s314><![CDATA[Value]]></s314>
+			<s315><![CDATA[Max.:]]></s315>
+			<s316><![CDATA[Min.:]]></s316>
+			<s317><![CDATA[Disabled]]></s317>
+			<s318><![CDATA[Disable]]></s318>
+			<s319><![CDATA[Enable]]></s319>
+			<s320><![CDATA[Multiple use of a once projected submask
+with specific  projected tag interface.]]></s320>
+			<s321><![CDATA[Tag each instance:]]></s321>
+			<s322><![CDATA[Global tag (all instances):]]></s322>
+			<s323><![CDATA[User logger]]></s323>
+			<s324><![CDATA[logger On]]></s324>
+			<s325><![CDATA[logger Off]]></s325>
+			<s326><![CDATA[Flush]]></s326>
+			<s327><![CDATA[Notepad]]></s327>
+			<s328><![CDATA[User Logger On/Off]]></s328>
+			<s329><![CDATA[Flush Log-Data manually from RAM to Log-File]]></s329>
+			<s330><![CDATA[Viewer for Log-File
+(StorageCard2/LogData)]]></s330>
+			<s331><![CDATA[Logger]]></s331>
+			<s332><![CDATA[cm]]></s332>
+			<s333><![CDATA[inch]]></s333>
+			<s334><![CDATA[Log Tag's]]></s334>
+			<s335><![CDATA[Write Text "Zone 1 active"
+in Logfile]]></s335>
+			<s336><![CDATA[Example of function Ingnore-list]]></s336>
+			<s337><![CDATA[         User: technik 
+         PW:   1111]]></s337>
+			<s338><![CDATA[It's possible to create a 'Ignore-List' to
+eliminate some tags from logging.]]></s338>
+			<s339><![CDATA[It's possible to create a 'Ignore-List' to
+eliminate some functions from logging.]]></s339>
+			<s340><![CDATA[Log parameter
+per script]]></s340>
+			<s341><![CDATA[Status  Logger Aktiv]]></s341>
+			<s342><![CDATA[Time format
+hh:mm/mm:ss]]></s342>
+			<s343><![CDATA[Rotated text 90°]]></s343>
+			<s344><![CDATA[Rotated text 270°]]></s344>
+			<s345><![CDATA[Non rotated text]]></s345>
+			<s346><![CDATA[Rotated text 180°]]></s346>
+			<s347><![CDATA[Text Rotation]]></s347>
+			<s348><![CDATA[Tachometer 1]]></s348>
+			<s349><![CDATA[Tachometer 2]]></s349>
+			<s350><![CDATA[Tachometer 3]]></s350>
+			<s351><![CDATA[Touch indicator]]></s351>
+			<s352><![CDATA[Active]]></s352>
+			<s359><![CDATA[Logger
+ON]]></s359>
+			<s360><![CDATA[Logger
+OFF]]></s360>
+			<s372><![CDATA[]]></s372>
+		</standard>
+		<error>
+			<e0><![CDATA[]]></e0>
+			<e1><![CDATA[Error 1]]></e1>
+			<e2><![CDATA[Error 2]]></e2>
+			<e3><![CDATA[Error: <%>]]></e3>
+			<e4><![CDATA[Error: Temperature <%>°C]]></e4>
+			<e7><![CDATA[Warning 1]]></e7>
+			<e8><![CDATA[Warning 2]]></e8>
+			<e9><![CDATA[Message 1]]></e9>
+			<e10><![CDATA[Message 2]]></e10>
+		</error>
+		<help>
+			<h0><![CDATA[]]></h0>
+			<h1><![CDATA[With Cursor Right (above in the Header), a window opens with a Graph-Viewer. It can be viewed all stored graphs.]]></h1>
+			<h2><![CDATA[Rules for Entry Names (only available with enhanced recipes)
+- The recipe name must not be empty.
+- Each recipe entry must have a unique name.
+
+The checking of the observance of these name rules is always carried out by the runtime before a recipe is saved. If the rules are not observed, an appropriate system error message will be generated to indicate this and the recipe cannot be saved.]]></h2>
+			<h3><![CDATA[A help window is used to display the texts for a Help Button or the help texts of an error message. See section Error Text for information on defining help text for error messages.
+Additionally in each Help Button you can choose a separate Helpmask.
+Use this to define the font style, font size and color of the text contained in the Help window. The position and the size of the object determines also the position and size of the help window.
+
+Only one help window can be defined for each mask, i.e. all help texts of a mask are displayed at the same position and with the same parameters (font style, font size, color etc.).
+Since a help window can cover a large area of the screen many times (it is only temporarily visible) the view of the object can be switched on and off via the menu point Help Window in the View menu.]]></h3>
+			<h4><![CDATA[Use this object to display any text in a Help Window on the MMI. A help text can be assigned to each help button. The Help window is only visible after a Help button has been pressed or the Error help function activated in conjunction with an  Error Window. Additionally in each Help Button you can choose a separate Helpmask. The Help window disappears again as soon as the MMI is touched.]]></h4>
+			<h5><![CDATA[Helptext for the Tag  in Entry 0:
+
+Shows e.g. a Helptext describing the tag]]></h5>
+			<h6><![CDATA[Helptext for the Tag  in Entry 1:
+
+Shows e.g. a Helptext describing the tag]]></h6>
+			<h7><![CDATA[Helptext for the Tag  in Entry 2:
+
+Shows e.g. a Helptext describing the tag]]></h7>
+			<h9><![CDATA[Helptext for the Tag  in Entry 4:
+
+Shows e.g. a Helptext describing the tag]]></h9>
+			<h10><![CDATA[Helptext for the Tag  in Entry 5:
+
+Shows e.g. a Helptext describing the tag]]></h10>
+			<h11><![CDATA[Helptext for the Tag  in Entry 3:
+
+Shows e.g. a Helptext describing the tag]]></h11>
+			<h12><![CDATA[Bitmap and second Helptext in Entry 0]]></h12>
+			<h13><![CDATA[Bitmap and second Helptext in Entry 1]]></h13>
+			<h14><![CDATA[Bitmap and second Helptext in Entry 2]]></h14>
+			<h15><![CDATA[Bitmap and second Helptext in Entry 3]]></h15>
+			<h16><![CDATA[Bitmap and second Helptext in Entry 4]]></h16>
+			<h17><![CDATA[Bitmap and second Helptext in Entry 5]]></h17>
+		</help>
+	</texts>
+</languagedata>

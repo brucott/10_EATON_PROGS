@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<languagedata>
+	<fileversion major='1' minor='1'/>
+	<textprint mode="graphic" fontid='0' size='12' bold='0' italic='0' underline='0' strikeout='0'/>
+	<fonts>
+		<font id='0' fontname="Arial" filename="Arial.ttf" fontsizefactor='100'/>
+		<font id='2' fontname="Times New Roman" filename="Times.ttf" fontsizefactor='100'/>
+		<font id='3' fontname="Symbol" filename="Symbol.ttf" fontsizefactor='100'/>
+		<font id='4' fontname="Courier New" filename="Cour.ttf" fontsizefactor='100'/>
+	</fonts>
+	<texts>
+		<standard>
+			<s0><![CDATA[]]></s0>
+			<s1><![CDATA[mitte]]></s1>
+			<s2><![CDATA[links]]></s2>
+			<s3><![CDATA[rechts]]></s3>
+			<s4><![CDATA[Ausrichtung]]></s4>
+			<s5><![CDATA[Schriftfarbe]]></s5>
+			<s6><![CDATA[Hintergrund]]></s6>
+			<s7><![CDATA[Vordergrund]]></s7>
+			<s8><![CDATA[Hinter-
+und Vordergrund]]></s8>
+			<s9><![CDATA[arial]]></s9>
+			<s10><![CDATA[Zeigerinstrument]]></s10>
+			<s11><![CDATA[durchsichtiger
+Hintergrund]]></s11>
+			<s12><![CDATA[Schriftart]]></s12>
+			<s13><![CDATA[times new roman]]></s13>
+			<s14><![CDATA[symbol]]></s14>
+			<s15><![CDATA[courier]]></s15>
+			<s16><![CDATA[admin]]></s16>
+			<s17><![CDATA[Schriftgrösse]]></s17>
+			<s18><![CDATA[Grösse 8]]></s18>
+			<s19><![CDATA[Grösse 12]]></s19>
+			<s20><![CDATA[Grösse 16]]></s20>
+			<s21><![CDATA[Grösse 24]]></s21>
+			<s22><![CDATA[Grösse 
+32]]></s22>
+			<s23><![CDATA[Gruppen Rechte]]></s23>
+			<s24><![CDATA[Andere Farbe]]></s24>
+			<s25><![CDATA[Sommerzeit]]></s25>
+			<s26><![CDATA[Winterzeit]]></s26>
+			<s27><![CDATA[Zeichnungs-Funkt.]]></s27>
+			<s28><![CDATA[Rechteck]]></s28>
+			<s29><![CDATA[Abger. Rechteck]]></s29>
+			<s30><![CDATA[Ellipse]]></s30>
+			<s31><![CDATA[Linie]]></s31>
+			<s32><![CDATA[Zeit/Datum einstellen]]></s32>
+			<s33><![CDATA[Polygon]]></s33>
+			<s34><![CDATA[Bilddateien]]></s34>
+			<s35><![CDATA[- 16 Bit Farbtiefe
+- Über 10 unterstützte Bildformate
+- Frei skalierbar]]></s35>
+			<s36><![CDATA[Höhe]]></s36>
+			<s37><![CDATA[Breite]]></s37>
+			<s38><![CDATA[Maskenwechsel]]></s38>
+			<s39><![CDATA[bedienbar]]></s39>
+			<s40><![CDATA[sichtbar]]></s40>
+			<s41><![CDATA[-Maske 1-]]></s41>
+			<s42><![CDATA[-Maske 2-]]></s42>
+			<s43><![CDATA[mm]]></s43>
+			<s44><![CDATA[Maske 2]]></s44>
+			<s45><![CDATA[3D]]></s45>
+			<s46><![CDATA[Andere Farbe (Blinkend)]]></s46>
+			<s47><![CDATA[2D]]></s47>
+			<s48><![CDATA[Gitter 1]]></s48>
+			<s49><![CDATA[Kein Rahmen]]></s49>
+			<s50><![CDATA[Gitter 2]]></s50>
+			<s51><![CDATA[Verzögerung]]></s51>
+			<s52><![CDATA[3D Anzeige]]></s52>
+			<s53><![CDATA[Doppelklick]]></s53>
+			<s54><![CDATA[keine Änderung]]></s54>
+			<s55><![CDATA[Text]]></s55>
+			<s56><![CDATA[Farbe]]></s56>
+			<s57><![CDATA[Bitmap]]></s57>
+			<s58><![CDATA[Maske 1]]></s58>
+			<s59><![CDATA[Taste]]></s59>
+			<s60><![CDATA[Invers]]></s60>
+			<s61><![CDATA[Aus]]></s61>
+			<s62><![CDATA[Ein]]></s62>
+			<s63><![CDATA[Taster]]></s63>
+			<s64><![CDATA[Lösche Bit]]></s64>
+			<s65><![CDATA[Gitter 3]]></s65>
+			<s66><![CDATA[Setze Bit:]]></s66>
+			<s67><![CDATA[Wahlschalter]]></s67>
+			<s68><![CDATA[1 Bit nach links
+rotieren (endlos)]]></s68>
+			<s69><![CDATA[1 Bit nach rechts
+rotieren (endlos)]]></s69>
+			<s70><![CDATA[1 Bit nach
+rechts rotieren]]></s70>
+			<s71><![CDATA[1 Bit nach
+links rotieren]]></s71>
+			<s72><![CDATA[1 Byte]]></s72>
+			<s73><![CDATA[Mit den Pfeilen einzelne Bit setzen]]></s73>
+			<s74><![CDATA[Eintrag Nummer:]]></s74>
+			<s75><![CDATA[10101010]]></s75>
+			<s76><![CDATA[10011001]]></s76>
+			<s77><![CDATA[Setze Bitmaske]]></s77>
+			<s78><![CDATA[Setze Bitmaske (Ein/Aus-Taster)]]></s78>
+			<s79><![CDATA[Zustandsanzeige]]></s79>
+			<s80><![CDATA[X]]></s80>
+			<s81><![CDATA[Y]]></s81>
+			<s82><![CDATA[Z]]></s82>
+			<s83><![CDATA[0]]></s83>
+			<s84><![CDATA[1]]></s84>
+			<s85><![CDATA[2]]></s85>
+			<s86><![CDATA[Wert Ein/Ausgabe]]></s86>
+			<s87><![CDATA[Verschiedene
+Tastaturen]]></s87>
+			<s88><![CDATA[Verschiedene
+Formate]]></s88>
+			<s89><![CDATA[Simulation Starten]]></s89>
+			<s90><![CDATA[Inc/Dec 10
+2D (Blinkend)]]></s90>
+			<s91><![CDATA[Numeric kein
+Rahmen (Blinkend)]]></s91>
+			<s92><![CDATA[Num. Digit Min/Max
+Verzögerung]]></s92>
+			<s93><![CDATA[Numeric Min/Max
+Doppelklick]]></s93>
+			<s94><![CDATA[Numeric Passwort
+3D]]></s94>
+			<s95><![CDATA[Select Numeric
+3D]]></s95>
+			<s96><![CDATA[1 Bit nach rechts
+rotieren (endlos)]]></s96>
+			<s97><![CDATA[Dezimal
+3D]]></s97>
+			<s98><![CDATA[BCD
+2D]]></s98>
+			<s99><![CDATA[Binär
+kein Rahmen]]></s99>
+			<s100><![CDATA[Hex
+Verzögerung]]></s100>
+			<s101><![CDATA[Octal
+Doppelklick]]></s101>
+			<s102><![CDATA[K]]></s102>
+			<s103><![CDATA[°C]]></s103>
+			<s104><![CDATA[Wert eingeben]]></s104>
+			<s105><![CDATA[In Kelvin]]></s105>
+			<s106><![CDATA[In
+Grad Celsius]]></s106>
+			<s107><![CDATA[Wertausgabe/
+Masseinheiten]]></s107>
+			<s108><![CDATA[Eingabe]]></s108>
+			<s109><![CDATA[<-100 => Gelb]]></s109>
+			<s110><![CDATA[>100 => Rot]]></s110>
+			<s111><![CDATA[Bargraph]]></s111>
+			<s112><![CDATA[0]]></s112>
+			<s113><![CDATA[300]]></s113>
+			<s114><![CDATA[Start]]></s114>
+			<s115><![CDATA[Stopp]]></s115>
+			<s116><![CDATA[Werteingabe,
+Blinkend ausserhalb Grenzwert]]></s116>
+			<s117><![CDATA[Einstellbare
+Skalawerte]]></s117>
+			<s118><![CDATA[100]]></s118>
+			<s119><![CDATA[unterer Grenzwert: 33
+oberer Grenzwert: 66]]></s119>
+			<s120><![CDATA[Verschiedene Anzeigearten]]></s120>
+			<s121><![CDATA[Graph]]></s121>
+			<s122><![CDATA[Messlineal:]]></s122>
+			<s123><![CDATA[1 Bit nach
+rechts rotieren]]></s123>
+			<s124><![CDATA[Messwerte]]></s124>
+			<s125><![CDATA[Graph 1]]></s125>
+			<s126><![CDATA[1 Bit nach
+links rotieren]]></s126>
+			<s127><![CDATA[    support    2222]]></s127>
+			<s128><![CDATA[kg]]></s128>
+			<s129><![CDATA[Graph 3]]></s129>
+			<s130><![CDATA[Zoom]]></s130>
+			<s131><![CDATA[+ ]]></s131>
+			<s132><![CDATA[- ]]></s132>
+			<s133><![CDATA[Scroll]]></s133>
+			<s134><![CDATA[Rezepte]]></s134>
+			<s135><![CDATA[Mehlanteil
+ändern]]></s135>
+			<s136><![CDATA[Zuckeranteil
+ändern]]></s136>
+			<s137><![CDATA[1 Bit nach links
+rotieren (endlos)]]></s137>
+			<s138><![CDATA[Laden]]></s138>
+			<s139><![CDATA[Umbenennen]]></s139>
+			<s140><![CDATA[Kopieren]]></s140>
+			<s141><![CDATA[Einfügen]]></s141>
+			<s142><![CDATA[Speichern]]></s142>
+			<s143><![CDATA[Speichern als]]></s143>
+			<s144><![CDATA[AFG Arena 2]]></s144>
+			<s145><![CDATA[Löschen]]></s145>
+			<s146><![CDATA[V]]></s146>
+			<s147><![CDATA[         User    3333]]></s147>
+			<s148><![CDATA[Sicherheitsabfrage]]></s148>
+			<s149><![CDATA[AFG Arena 4]]></s149>
+			<s150><![CDATA[Löschen des
+Rezepteintrages:]]></s150>
+			<s151><![CDATA[JA]]></s151>
+			<s152><![CDATA[NEIN]]></s152>
+			<s153><![CDATA[Lade Standardwerte des
+Rezepteintrages:]]></s153>
+			<s154><![CDATA[Parameterliste Drucken]]></s154>
+			<s155><![CDATA[?]]></s155>
+			<s156><![CDATA[Ausgewählten Eintrag:]]></s156>
+			<s157><![CDATA[h]]></s157>
+			<s158><![CDATA[Tage]]></s158>
+			<s159><![CDATA[Reset]]></s159>
+			<s160><![CDATA[Mehl]]></s160>
+			<s161><![CDATA[Zucker]]></s161>
+			<s162><![CDATA[Geladener Eintrag:]]></s162>
+			<s163><![CDATA[Andere Farbe
+(Blinkend)]]></s163>
+			<s164><![CDATA[Fehlerfenster]]></s164>
+			<s165><![CDATA[Verlauf (History)
+An/Aus]]></s165>
+			<s166><![CDATA[Fehler 
+Quittieren]]></s166>
+			<s167><![CDATA[Alle Fehler
+Quittieren]]></s167>
+			<s168><![CDATA[Verlauf (History)
+Löschen]]></s168>
+			<s169><![CDATA[Autoscroll
+Ein/Aus]]></s169>
+			<s170><![CDATA[Verlauf (History)
+speichern]]></s170>
+			<s171><![CDATA[Funktionstasten]]></s171>
+			<s172><![CDATA[Informationen:]]></s172>
+			<s173><![CDATA[Maskenname]]></s173>
+			<s174><![CDATA[GRS Version]]></s174>
+			<s175><![CDATA[Compiler Version]]></s175>
+			<s176><![CDATA[Anzahl Kompilierungen]]></s176>
+			<s177><![CDATA[Aktive Projektsprache]]></s177>
+			<s178><![CDATA[Serienummer]]></s178>
+			<s179><![CDATA[Projektgrösse]]></s179>
+			<s180><![CDATA[FTP]]></s180>
+			<s181><![CDATA[Programmaufruf:]]></s181>
+			<s182><![CDATA[Systemsprache
+wechseln:]]></s182>
+			<s183><![CDATA[Systemneustart]]></s183>
+			<s184><![CDATA[Speichere Maske
+als Bitmap]]></s184>
+			<s185><![CDATA[Backlight
+Aus]]></s185>
+			<s186><![CDATA[Letzte Maske]]></s186>
+			<s187><![CDATA[GRS schliessen]]></s187>
+			<s188><![CDATA[Diverse:]]></s188>
+			<s189><![CDATA[SPS-Text (Char-Array)]]></s189>
+			<s190><![CDATA[       admin    9999]]></s190>
+			<s191><![CDATA[Gitter 2
+(Blinkend)]]></s191>
+			<s192><![CDATA[Texteingabe in ein Char-Array]]></s192>
+			<s194><![CDATA[Zeit/Datum]]></s194>
+			<s197><![CDATA[Umstellen auf
+Amerikanische Zeit/Datum]]></s197>
+			<s198><![CDATA[Umstellen auf
+Europäische Zeit/Datum]]></s198>
+			<s199><![CDATA[Zeigerinstrument mit Bitmap
+als Hintergrund]]></s199>
+			<s200><![CDATA[Wertanzeige, Sichtbarkeit steuerbar]]></s200>
+			<s201><![CDATA[Anzeige, keine Zugänglichkeitssteuerung]]></s201>
+			<s202><![CDATA[Uhrzeit]]></s202>
+			<s203><![CDATA[Datum]]></s203>
+			<s204><![CDATA[Hilfefunktion]]></s204>
+			<s205><![CDATA[HILFE]]></s205>
+			<s206><![CDATA[in diesem Bereich wird der Hilfetext
+bei Hilfetastendruck erscheinen]]></s206>
+			<s207><![CDATA[Parameterliste]]></s207>
+			<s208><![CDATA[Werteingabe möglich, Keine Zugänglichkeitssteuerung]]></s208>
+			<s209><![CDATA[Werteingabe möglich, Sichtbarkeit steuerbar]]></s209>
+			<s210><![CDATA[Werteingabe möglich, Bedienbarkeit steuerbar]]></s210>
+			<s211><![CDATA[Werteingabe möglich, Zugänglichkeit steuerbar]]></s211>
+			<s214><![CDATA[Touch deaktivieren]]></s214>
+			<s215><![CDATA[Zugänglichkeit der Einträge]]></s215>
+			<s216><![CDATA[Informationen anzeigen]]></s216>
+			<s217><![CDATA[Teilmaske]]></s217>
+			<s218><![CDATA[Werden die selben Elemente auf mehreren Masken verwendet,
+so lohnt es sich sogenannte Teilmasken zu erstellen. Wird nachträglich in einer
+Teilmaske ein Element verändert, so wird die Änderung automatisch
+in allen Masken vorgenommen.]]></s218>
+			<s219><![CDATA[Kopfzeile]]></s219>
+			<s220><![CDATA[Zugänglichkeitssteuerung]]></s220>
+			<s221><![CDATA[Kamera-Objekt]]></s221>
+			<s222><![CDATA[Inc/Dec 1
+3D (Blinkend)]]></s222>
+			<s223><![CDATA[oberer Grenzwert]]></s223>
+			<s224><![CDATA[      technik    1111]]></s224>
+			<s225><![CDATA[Amsterdam]]></s225>
+			<s226><![CDATA[Fehler]]></s226>
+			<s227><![CDATA[unterer Grenzwert]]></s227>
+			<s228><![CDATA[Gestoppt]]></s228>
+			<s229><![CDATA[Gestartet]]></s229>
+			<s230><![CDATA[Zustand]]></s230>
+			<s231><![CDATA[s]]></s231>
+			<s232><![CDATA[Aktualisierungszeit:]]></s232>
+			<s233><![CDATA[Wichtig]]></s233>
+			<s234><![CDATA[Damit das hier gezeigte Webcamobjekt-Demo einwandfrei 
+funktioniert, müssen zwei Bedingungen erfüllt sein:
+
+1. Das verwendete Gerät muss Zugang zum Internet haben.
+2. Die Webcams auf die das Projekt zugreift, müssen online sein.]]></s234>
+			<s235><![CDATA[OK]]></s235>
+			<s236><![CDATA[Hinweis]]></s236>
+			<s237><![CDATA[X]]></s237>
+			<s238><![CDATA[Hinweis]]></s238>
+			<s239><![CDATA[Warnung]]></s239>
+			<s240><![CDATA[Starte Aufzeichnung]]></s240>
+			<s241><![CDATA[Stoppe Aufzeichnung]]></s241>
+			<s242><![CDATA[Login durch Char Eingabe]]></s242>
+			<s243><![CDATA[kein Benutzer]]></s243>
+			<s244><![CDATA[Meldung auslösen]]></s244>
+			<s245><![CDATA[Schleppzeiger]]></s245>
+			<s246><![CDATA[technik]]></s246>
+			<s247><![CDATA[support]]></s247>
+			<s248><![CDATA[User]]></s248>
+			<s249><![CDATA[zurück]]></s249>
+			<s251><![CDATA[Zwei Zeigerinstrumente Übereinander]]></s251>
+			<s253><![CDATA[Benutzer]]></s253>
+			<s254><![CDATA[Passwort]]></s254>
+			<s255><![CDATA[Eingeloggt als:]]></s255>
+			<s256><![CDATA[Auflistung aller
+Benutzer]]></s256>
+			<s257><![CDATA[LOGOUT]]></s257>
+			<s258><![CDATA[LOGIN ]]></s258>
+			<s259><![CDATA[Passwort anderer
+Benutzer Ändern]]></s259>
+			<s260><![CDATA[Neuer Benutzer
+erstellen]]></s260>
+			<s261><![CDATA[Eigenes Passwort
+ändern]]></s261>
+			<s262><![CDATA[Benutzer
+löschen]]></s262>
+			<s263><![CDATA[Fehllogins anderer
+User zurücksetzen]]></s263>
+			<s264><![CDATA[Simulation Stop]]></s264>
+			<s265><![CDATA[Zeigerinstrument transparent mit Schleppzeiger]]></s265>
+			<s271><![CDATA[Information]]></s271>
+			<s273><![CDATA[Maske
+(mit Kopfzeile)]]></s273>
+			<s274><![CDATA[Maske
+(ohne Kopfzeile)]]></s274>
+			<s275><![CDATA[Formular 0]]></s275>
+			<s276><![CDATA[Reportmaske]]></s276>
+			<s277><![CDATA[Fehlerhistory]]></s277>
+			<s278><![CDATA[Fehler kontinuierlich
+drucken]]></s278>
+			<s279><![CDATA[Kontinuierliches
+Drucken stoppen]]></s279>
+			<s280><![CDATA[Benutzerverwaltung]]></s280>
+			<s281><![CDATA[Drucken von:]]></s281>
+			<s282><![CDATA[Standardtext]]></s282>
+			<s283><![CDATA[Druckfunktionen]]></s283>
+			<s284><![CDATA[Logintastatur]]></s284>
+			<s285><![CDATA[Dynamische Position]]></s285>
+			<s287><![CDATA[Schieberegler]]></s287>
+			<s288><![CDATA[ohne
+Rahmen]]></s288>
+			<s289><![CDATA[Dynamische Grenzen]]></s289>
+			<s290><![CDATA[25]]></s290>
+			<s291><![CDATA[50]]></s291>
+			<s292><![CDATA[75]]></s292>
+			<s293><![CDATA[100]]></s293>
+			<s294><![CDATA[Float]]></s294>
+			<s295><![CDATA[Auflistung aller
+Gruppen]]></s295>
+			<s296><![CDATA[Dieses Demo ist nicht an einer SPS angeschlossen,
+es können jedoch Meldungen erstellt werden.
+Drücken sie den gewünschten Meldungstyp und
+am Fehlerfenster wird eine Meldung ausgelöst.]]></s296>
+			<s297><![CDATA[Kamera Quelle]]></s297>
+			<s298><![CDATA[Geben Sie den URL  oder Netzwerkpfad einer Web Kamera an: 
+Beispiel: http://Server/folder/filename.ext(jpg)
+Beispiel Cam Uni St.Gallen = http://axis5.unisg.ch/jpg/image.jpg]]></s298>
+		</standard>
+		<error>
+			<e0><![CDATA[]]></e0>
+			<e1><![CDATA[Fehler 1]]></e1>
+			<e2><![CDATA[Fehler 2]]></e2>
+			<e7><![CDATA[Warnung 1]]></e7>
+			<e8><![CDATA[Warnung 2]]></e8>
+			<e9><![CDATA[Hinweis 1]]></e9>
+			<e10><![CDATA[Hinweis 2]]></e10>
+		</error>
+		<help>
+			<h0><![CDATA[]]></h0>
+			<h1><![CDATA[asdfsdf]]></h1>
+			<h2><![CDATA[asdfsdg]]></h2>
+			<h3><![CDATA[In einem Hilfefenster werden die Texte einer Hilfetaste oder der Hilfetext einer Fehlermeldung angezeigt. Zur Definition von Hilfetexten für Fehlermeldungen siehe Kapitel Fehlertext der Variablendefinition.
+Es wird die Schriftart, Schriftgrösse und Farbe des darin enthaltenen Textes definiert. Die Position und Grösse des Objektes bestimmt auch Position und Grösse des Hilfefensters.
+
+Pro Maske ist nur ein Hilfefenster definierbar, d.h. alle Hilfetexte einer Maske werden an der gleichen Position und mit den gleichen Parametern (Schriftart, Schriftgrösse, Farben, etc.) angezeigt.
+Da ein Hilfefenster vielfach einen grossen Teil des Bildschirmes überdeckt (Am MMI ist es nur sichtbar, während ein Hilfetext angezeigt wird.), kann im Menü "Ansicht" der Menüeintrag "Hilfefenster" die Ansicht des Objektes ein- und ausgeschaltet werden. ]]></h3>
+			<h4><![CDATA[Mit dem Objekt "Hilfetaste" kann ein Text in einem Hilfefenster auf dem MMI eingeblendet werden, wobei jede Maske nur ein Hilfefenster enthalten kann. Das Hilfefenster ist nur nach der Betätigung einer Hilfetaste oder der Funktion Error help im Zusammenhang mit einem Fehlerfenster sichtbar. Das Hilfefenster wird wieder unsichtbar, sobald eine Betätigung des MMI erfolgt.
+Die Hilfetexte von verschiedenen Hilfetasten werden im selben Hilfefenster angezeigt. Jeder Hilfetaste kann ein Hilfetext zugewiesen werden.]]></h4>
+			<h5><![CDATA[Hilfetext zur Variable im Eintrag 0:
+
+Hier kann ein z.B. Variablenbeschreibender Hilfetext angezeigt werden]]></h5>
+			<h6><![CDATA[Hilfetext zur Variable im Eintrag 1:
+
+Hier kann ein z.B. Variablenbeschreibender Hilfetext angezeigt werden]]></h6>
+			<h7><![CDATA[Hilfetext zur Variable im Eintrag 2:
+
+Hier kann ein z.B. Variablenbeschreibender Hilfetext angezeigt werden]]></h7>
+			<h9><![CDATA[Hilfetext zur Variable im Eintrag 4:
+
+Hier kann ein z.B. Variablenbeschreibender Hilfetext angezeigt werden]]></h9>
+			<h10><![CDATA[Hilfetext zur Variable im Eintrag 5:
+
+Hier kann ein z.B. Variablenbeschreibender Hilfetext angezeigt werden]]></h10>
+			<h11><![CDATA[Hilfetext zur Variable im Eintrag 3:
+
+Hier kann ein z.B. Variablenbeschreibender Hilfetext angezeigt werden]]></h11>
+		</help>
+	</texts>
+</languagedata>

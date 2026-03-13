@@ -1,0 +1,28 @@
+# --- CoDeSys V3 ---
+# Fichiers de compilation et cache
+*.compileinfo
+*.bootinfo
+*.bootinfo_guids
+*.precompilecache
+*.opt
+*.bak
+*.lock
+obj/
+_temp/
+
+# --- CoDeSys V2 ---
+# (souvent des fichiers .ret, .log ou .bin de compilation)
+*.ret
+*.log
+
+# --- Galileo (V8, V10, V11) ---
+# On exclut le dossier de sortie car il peut contenir des centaines de fichiers
+/Output/
+*.tmp
+*.log
+# Fichiers de session utilisateur
+*.user
+
+# --- Système ---
+.DS_Store
+Thumbs.db
