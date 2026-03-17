@@ -1,0 +1,2 @@
+SystemTime.WriteDateTimeToValues(0.XV300.byHour, 0.XV300.byMinute, 0.XV300.bySecond, 0.XV300.byDay, 0.XV300.byMonth, 0.XV300.wYear);
+SystemTime.WriteWeekdayToValue(0.XV300.byWeekDay);

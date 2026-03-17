@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.14.0</Version>
+    <SymbolConfigObject version="4.5.2.0" runtimeid="3.5.20.40" libversion="4.5.0.0" compiler="3.5.20.40" lmm="3.5.20.50" profile="XSOFT-CODESYS V3.5.20+" settings="SupportOPCUA, LayoutCalculator=OptimizedClientSideLayoutCalculator" />
+    <ProjectInfo name="G11_RTC_Sync_CoDeSys" devicename="Device" appname="Application" />
+  </Header>
+  <TypeList>
+    <TypeSimple name="T_BYTE" size="1" swapsize="1" typeclass="Byte" iecname="BYTE" />
+    <TypeSimple name="T_WORD" size="2" swapsize="2" typeclass="Word" iecname="WORD" />
+  </TypeList>
+  <NodeList>
+    <Node name="Application">
+      <Node name="XV300">
+        <Node name="byDay" type="T_BYTE" access="ReadWrite" />
+        <Node name="byHour" type="T_BYTE" access="ReadWrite" />
+        <Node name="byMinute" type="T_BYTE" access="ReadWrite" />
+        <Node name="byMonth" type="T_BYTE" access="ReadWrite" />
+        <Node name="bySecond" type="T_BYTE" access="ReadWrite" />
+        <Node name="byWeekDay" type="T_BYTE" access="ReadWrite" />
+        <Node name="wYear" type="T_WORD" access="ReadWrite" />
+      </Node>
+    </Node>
+  </NodeList>
+</Symbolconfiguration>

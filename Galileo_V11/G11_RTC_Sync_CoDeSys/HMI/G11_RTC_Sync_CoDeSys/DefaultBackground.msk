@@ -1,0 +1,10 @@
+<BackgroundScreen Guid="ceaa6677-0bb7-40a4-951e-90f4be96bb4a" Res="[1024 600]" ScreenColor="[255 85 85 85]" ActiveSet="c357e490-65fd-467f-b8f8-823bb80d81d8" Name="DefaultBackground" No="0" Version="[11.0.0]">
+  <Checksum Value="3469123361" />
+  <CImage Guid="5645d1b7-ddc9-482c-9f6b-2ab81d5935ef" LockedPosition="0" ControlSet="c357e490-65fd-467f-b8f8-823bb80d81d8" Name="" Anchor="5" IsDynamic="0" GesturesEnabled="0" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="1024" Height_PropType="0" Height_Value="600">
+    <State Guid="e28674e1-cef2-4b85-9c64-47931ffcd479" Name="Image" Version="[1.1.0]">
+      <ColorDecorator Guid="db495af0-9137-4ae9-9c57-21f0a5d3e968" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <IconImageDecorator Guid="f459cc4c-ef02-4cd4-b972-607567ab4a1e" ID="1" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="51f14954-439e-4a59-bb0f-a8ef880a47ee" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </CImage>
+  <ControlSet Guid="c357e490-65fd-467f-b8f8-823bb80d81d8" Name="ControlSet" />
+</BackgroundScreen>

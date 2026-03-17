@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConnectionManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FtpConnections />
+  <Folders />
+  <WebApiConnections>
+    <WebApiConnection>
+      <Guid>75559d9f-1fa8-4f5e-9694-4f337fe040c8</Guid>
+      <Name>192.168.0.98</Name>
+      <Host>192.168.0.98</Host>
+      <Username>admin</Username>
+      <Port>8375</Port>
+      <Timeout>240</Timeout>
+      <DestinationFolder />
+      <TrustServerCertificate>true</TrustServerCertificate>
+    </WebApiConnection>
+  </WebApiConnections>
+  <SshConnections />
+  <LastUsedTarget>75559d9f-1fa8-4f5e-9694-4f337fe040c8</LastUsedTarget>
+  <WebApiImportNamePattern />
+  <WebApiImportUseHostAddress>false</WebApiImportUseHostAddress>
+  <KeepAutoexec>false</KeepAutoexec>
+  <DownloadSourceAsZip>false</DownloadSourceAsZip>
+  <PasswordProtection>false</PasswordProtection>
+  <StopRunningGrs>true</StopRunningGrs>
+  <RestartGrs>true</RestartGrs>
+  <WaitTimeAfterShutdown>2</WaitTimeAfterShutdown>
+  <UploadRecipes>false</UploadRecipes>
+  <UploadUserManagement>false</UploadUserManagement>
+</ConnectionManager>
