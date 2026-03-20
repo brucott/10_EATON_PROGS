@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languageData Version="galileoNG">
+	<texts>
+		<standard Guid="3f2443d3-2825-46b3-983e-03a52fc023bd" textID="0"><![CDATA[SAVE]]></standard>
+		<standard Guid="e44c4e4e-2544-40be-abc8-075a85294da6" textID="1"><![CDATA[Utiliser la pseudo  communication "Persistent Tag Storage"]]></standard>
+		<standard Guid="1635c48b-2c5a-4944-a202-02bd3d19993c" textID="2"><![CDATA[Et y stocker les variables à sauvegarder]]></standard>
+	</texts>
+</languageData>
